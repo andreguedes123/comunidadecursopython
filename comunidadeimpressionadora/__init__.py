@@ -30,4 +30,3 @@ else:
     print("base de dados já existente")
 
 from comunidadeimpressionadora import routes
-
